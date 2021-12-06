@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Bitheral | Website" width="22px" src="https://files.bitheral.net/media/favicon.ico" />][website]
+[<img align="left" alt="Bitheral | Website" width="22px" src="https://files.bitheral.net/media/bitheral_avatar_black.png" />][website]
 [<img align="left" alt="Bitheral | Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 
 <br />
