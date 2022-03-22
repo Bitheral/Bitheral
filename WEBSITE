@@ -1,0 +1,22 @@
+{
+  "socials": [
+    {
+      "icon": "bi-twitter",
+      "platform": "Twitter",
+      "link": "https://twitter.com/itsBitheral",
+      "handle": "@itsBitheral"
+    },
+    {
+      "icon": "bi-github",
+      "platform": "GitHub",
+      "link": "https://github.com/bitheral",
+      "handle": "@bitheral"
+    },
+    { icon: "bi-discord", platform: "Discord", handle: "Bitheral#0001" },
+    {
+      "icon": "bi-envelope-fill",
+      "platform": "Email",
+      "handle": "me@bitheral.net"
+    }
+  ]
+}      
