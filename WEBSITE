@@ -20,5 +20,114 @@
 			"platform": "Email",
 			"handle": "me@bitheral.net"
 		}
-	]
+	],
+	"skills": {
+  		"FEA": {
+    			"content": [
+      				{
+        				"label": "Electron",
+        				"link": "https://electronjs.org"
+      				},
+      				{
+        				"label": "Unity",
+        				"link": "https://unity.com"
+      				},
+      				{
+        				"label": "Nuxt",
+        				"link": "https://nuxtjs.org/"
+      				},
+      				{
+        				"label": "Node.js",
+        				"link": "https://nuxtjs.org"
+      				},
+      				{
+        				"label": "Vuetify",
+        				"link": "https://vuetifyjs.com"
+      				},
+      				{
+        				"label": "OpenGL",
+        				"link": "https://www.opengl.org/"
+      				},
+      				{
+        				"label": "Minecraft Forge",
+        				"link": "https://mcforge.readthedocs.io/en/latest/"
+      				},
+      				{
+        				"label": "Discord.js",
+        				"link": "https://discord.js.org"
+      				},
+      				{
+        				"label": "Unreal Engine",
+        				"link": "https://www.unrealengine.com/"
+      				},
+      				{
+        				"label": "Vue",
+        				"link": "https://vuejs.org"
+      				}
+    			],
+    			"name": "Frameworks / Engines / APIs",
+    			"order": 2
+  		},
+  		"languages": {
+    			"content": [
+      				{
+        				"label": "Python",
+        				"link": "https://python.org"
+      				},
+      				{
+        				"label": "Java"
+      				},
+      				{
+        				"label": "C#"
+      				},
+      				{
+        				"label": "Javascript"
+      				},
+      				{
+        				"label": "HTML"
+      				},
+      				{
+        				"label": "CSS"
+      				},
+      				{
+				        "label": "C++"
+      				},
+      				{
+        				"label": "SQL"
+      				}
+    			],
+    			"name": "Languages",
+    			"order": 1
+  		},
+  		"tools": {
+    			"content": [
+      				{
+        				"label": "Git",
+        				"link": "https://git-scm.com/"
+      				},
+      				{
+        				"label": "Trello",
+        				"link": "https://trello.com/bitheral/boards"
+      				},
+      				{
+        				"label": "Toggl",
+        				"link": "https://toggl.com"
+      				},
+      				{
+        				"label": "Postman",
+        				"link": "https://postman.com"
+      				},
+      				{
+				        "label": "Visual Studio Code",
+        				"link": "https://code.visualstudio.com/"
+      				},
+      				{
+        				"label": "Visual Studio",
+        				"link": "https://visualstudio.microsoft.com/"
+      				}
+    			],
+    			"name": "Tools",
+    			"order": 3
+  		}
+	}
 }
