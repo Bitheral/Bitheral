@@ -39,7 +39,7 @@
 			"order": 2
 		},
   		{
-			content": [
+			"content": [
 				{ "label": "Python", "link": "https://python.org" },
 				{ "label": "Java" },
 				{ "label": "C#" },
