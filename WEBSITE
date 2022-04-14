@@ -41,6 +41,6 @@
 		{ "label": "Trello", "link": "https://trello.com/bitheral/boards" },
 		{ "label": "Toggl Track", "link": "https://track.toggl.com", "alphalabel": "toggletrack" },
 		{ "label": "Postman", "link": "https://postman.com" },
-		{ "label": "Visual Studio", "link": "https://visualstudio.microsoft.com/" }
+		{ "label": "Visual Studio", "link": "https://visualstudio.microsoft.com/", "alphalabel": "visualstudio" }
 	]
 }
