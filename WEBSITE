@@ -39,7 +39,6 @@
 		{ "label": "Minecraft Forge", "link": "https://forums.minecraftforge.net/", "alphalabel": "minecraftforge" },
 		{ "label": "Git", "link": "https://git-scm.com/" },
 		{ "label": "Trello", "link": "https://trello.com/bitheral/boards" },
-		{ "label": "Toggl Track", "link": "https://track.toggl.com", "alphalabel": "toggletrack" },
 		{ "label": "Postman", "link": "https://postman.com" },
 		{ "label": "Visual Studio", "link": "https://visualstudio.microsoft.com/", "alphalabel": "visualstudio" }
 	]
