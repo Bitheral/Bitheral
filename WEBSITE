@@ -24,11 +24,11 @@
 	"skills": [
 		{ "label": "Python", "link": "https://python.org" },
 		{ "label": "Java" },
-		{ "label": "C#", "logo": "csharp" },
+		{ "label": "C#", "alphalabel": "csharp" },
 		{ "label": "Javascript" },
 		{ "label": "HTML" },
 		{ "label": "CSS" },
-		{ "label": "C++", "logo": "cpp" },
+		{ "label": "C++", "alphalabel": "cpp" },
 		{ "label": "Electron", "link": "https://electronjs.org"},
 		{ "label": "Unity", "link": "https://unity.com" },
 		{ "label": "Nuxt", "link": "https://nuxtjs.org/" },
