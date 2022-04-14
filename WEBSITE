@@ -29,7 +29,7 @@
 		{ "label": "HTML" },
 		{ "label": "CSS" },
 		{ "label": "C++", "alphalabel": "cpp" },
-		{ "label": "Node.js", "link": "https://nuxtjs.org" },
+		{ "label": "Node.js", "link": "https://nuxtjs.org", "alphalabel": "nodejs-full" },
 		{ "label": "Discord.js", "link": "https://discord.js.org" },
 		{ "label": "Electron", "link": "https://electronjs.org"},
 		{ "label": "Vue", "link": "https://vuejs.org" },
