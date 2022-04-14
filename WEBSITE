@@ -29,20 +29,18 @@
 		{ "label": "HTML" },
 		{ "label": "CSS" },
 		{ "label": "C++", "alphalabel": "cpp" },
-		{ "label": "Electron", "link": "https://electronjs.org"},
-		{ "label": "Unity", "link": "https://unity.com" },
-		{ "label": "Nuxt", "link": "https://nuxtjs.org/" },
 		{ "label": "Node.js", "link": "https://nuxtjs.org" },
-		{ "label": "Vuetify", "link": "https://vuetifyjs.com" },
+		{ "label": "Discord.js", "link": "https://discord.js.org" },
+		{ "label": "Electron", "link": "https://electronjs.org"},
+		{ "label": "Vue", "link": "https://vuejs.org" },
+		{ "label": "Unity", "link": "https://unity.com" },
+		{ "label": "Unreal Engine", "link": "https://www.unrealengine.com/" },
 		{ "label": "OpenGL", "link": "https://www.opengl.org/" },
 		{ "label": "Minecraft Forge", "link": "https://mcforge.readthedocs.io/en/latest/" },
-		{ "label": "Discord.js", "link": "https://discord.js.org" },
-		{ "label": "Unreal Engine", "link": "https://www.unrealengine.com/" },
-		{ "label": "Vue", "link": "https://vuejs.org" },
 		{ "label": "Git", "link": "https://git-scm.com/" },
 		{ "label": "Trello", "link": "https://trello.com/bitheral/boards" },
-		{ "label": "Toggl", "link": "https://toggl.com" },
+		{ "label": "Toggl Track", "link": "https://track.toggl.com" },
 		{ "label": "Postman", "link": "https://postman.com" },
-		{ "label": "Visual Studio / VSCode", "link": "https://visualstudio.microsoft.com/" }
+		{ "label": "Visual Studio", "link": "https://visualstudio.microsoft.com/" }
 	]
 }
