@@ -29,7 +29,7 @@
   <a href="https://github.com/Bitheral/the-beerzerker" target="_blank">
     <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=the-beerzerker&show_owner=true&hide_border=true&theme=github_dark" alt="The Beerzerker" />
   </a>
-  <a href="https://github.com/Bitheral/solar-engulfmnet" target="_blank">
+  <a href="https://github.com/Bitheral/solar-engulfment" target="_blank">
     <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=solar-engulfment&show_owner=true&hide_border=true&theme=github_dark" alt="Solar Engulfment" />
   </a>
 </p>
