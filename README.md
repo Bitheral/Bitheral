@@ -26,11 +26,17 @@
 <h2 align="center">My Projects</h2>
 <div align="center">
 <p align="left">
-  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=the-beerzerker&show_owner=true&hide_border=true&theme=github_dark" alt="The Beerzerker" />
-  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=solar-engulfment&show_owner=true&hide_border=true&theme=github_dark" alt="Solar Engulfment" />
+  <a href="https://github.com/Bitheral/the-beerzerker" target="_blank">
+    <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=the-beerzerker&show_owner=true&hide_border=true&theme=github_dark" alt="The Beerzerker" />
+  </a>
+  <a href="https://github.com/Bitheral/solar-engulfmnet" target="_blank">
+    <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=solar-engulfment&show_owner=true&hide_border=true&theme=github_dark" alt="Solar Engulfment" />
+  </a>
 </p>
 <p align="center">
-  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=drilling-rig&show_owner=true&hide_border=true&theme=github_dark" alt="Drilling Rig" />
+  <a href="https://github.com/Bitheral/drilling-rig" target="_blank">
+    <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=drilling-rig&show_owner=true&hide_border=true&theme=github_dark" alt="Drilling Rig" />
+  </a>
 </p>
 </div>
 
