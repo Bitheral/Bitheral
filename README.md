@@ -2,18 +2,18 @@
 <h3 align="center">I'm currently a Student at University, studying Video Game Development</h3>
 
 <p align="center">
-  <a align="left" href="https://github.com/Bitheral" target="blank">
+  <a align="left" href="https://github.com/Bitheral" target="_blank">
     <img src="https://img.shields.io/github/followers/bitheral?label=Follow%20%40bitheral&logo=github&style=for-the-badge" alt="GitHub - @Bitheral" />
   </a>
-  <a align="left" href="https://twitter.com/itsbitheral" target="blank">
+  <a align="left" href="https://twitter.com/itsbitheral" target="_blank">
     <img src="https://img.shields.io/twitter/follow/itsbitheral?logo=twitter&style=for-the-badge" alt="Twitter - @itsBitheral" />
   </a>
 </p>
 <p align="center">
-  <a float="left" href="https://bitheral.net" target="blank">
+  <a float="left" href="https://bitheral.net" target="_blank">
     <img src="https://img.shields.io/website?down_color=red&down_message=Unavailable&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fbitheral.net%2F" alt="Website Availibility" />
   </a>
-  <a float="right" href="https://api.bitheral.net" target="blank">
+  <a float="right" href="https://api.bitheral.net" target="_blank">
     <img src="https://img.shields.io/website?down_color=red&down_message=Unavailable&label=API&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fbitheral.net%2F" alt="API Availability" />
   </a>
  </p>
