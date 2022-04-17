@@ -38,7 +38,6 @@
 <h2 align="left">Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing out RSS](https://bitheral.net/blog/post/testing-out-rss)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
