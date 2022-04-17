@@ -6,10 +6,10 @@
 
 <p align="center">
   <a align="left" href="https://github.com/Bitheral" target="_blank">
-    <img src="https://img.shields.io/github/followers/bitheral?label=Follow%20%40bitheral&logo=github&style=for-the-badge" alt="GitHub - @Bitheral" />
+    <img src="https://img.shields.io/github/followers/bitheral?label=Follow%20bitheral&logo=github&style=for-the-badge" alt="GitHub - Follow Bitheral" />
   </a>
   <a align="left" href="https://twitter.com/itsbitheral" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/itsbitheral?logo=twitter&style=for-the-badge" alt="Twitter - @itsBitheral" />
+    <img src="https://img.shields.io/twitter/follow/itsbitheral?logo=twitter&style=for-the-badge" alt="Twitter - Follow @itsBitheral" />
   </a>
 </p>
 <p align="center">
