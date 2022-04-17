@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Bitheral</h1>
-<h3 align="center">I'm currently a Student at University, studying Video Game Development</h3>
+<h3 align="center">
+   I'm currently a Student at University, studying Video Game Development.  <br />
+  <br />
+  I'm interested in programming, mainly game development, but also anything related to space, whether that would be Spaceflight, Planets, Rockets or the mysteries of the Universe.</h3>
 
 <p align="center">
   <a align="left" href="https://github.com/Bitheral" target="_blank">
