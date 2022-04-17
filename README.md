@@ -19,11 +19,24 @@
  </p>
 
 
-- All of my projects are available at [https://bitheral.net](https://bitheral.net)
+- All of my projects are available at <a href="https://bitheral.net/projects" target="_blank">https://bitheral.net/projects</a>
 
 - You can reach me at **me@bitheral.net**
 
-### Blogs posts
+<h2 align="center">My Projects</h2>
+<div align="center">
+<p align="left">
+  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=the-beerzerker&show_owner=true&hide_border=true&theme=github_dark" alt="The Beerzerker" />
+  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=solar-engulfment&show_owner=true&hide_border=true&theme=github_dark" alt="Solar Engulfment" />
+</p>
+<p align="center">
+  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=drilling-rig&show_owner=true&hide_border=true&theme=github_dark" alt="Drilling Rig" />
+</p>
+</div>
+
+<br>
+<h2 align="left">Blog Posts</h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Testing out RSS](https://bitheral.net/blog/post/testing-out-rss)
 <!-- BLOG-POST-LIST:END -->
@@ -35,8 +48,10 @@
 <a href="/https://api.bitheral.net/v1/data/blog/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://api.bitheral.net/v1/data/blog/feed" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitheral&show_icons=true&locale=en&layout=compact" alt="bitheral" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bitheral&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="bitheral" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bitheral&" alt="bitheral" /></p>
+<p align="left">
+  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitheral&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact&count_private=true" alt="bitheral" />
+  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=bitheral&show_icons=true&theme=github_dark&hide_border=true&locale=en&count_private=true" alt="bitheral" />
+</p>
+<p align="center">
+  <img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=bitheral&theme=github-dark&hide_border=true" alt="bitheral" />
+</p>
