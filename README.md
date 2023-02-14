@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/website?down_color=red&down_message=Unavalable&label=API&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fapi.bitheral.net/ping" alt="API Availability" />
   </a>
    <a float="right" href="https://cdn.bitheral.net" target="_blank">
-    <img src="https://img.shields.io/website?down_color=red&down_message=Unavailable&label=CDN&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fcdn.bitheral.net" alt="CDN Availability" />
+    <img src="https://img.shields.io/website?down_color=red&down_message=Unavailable&label=CDN&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fcdn.bitheral.net%2Fping" alt="CDN Availability" />
   </a>
  </p>
 
