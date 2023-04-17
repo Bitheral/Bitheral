@@ -2,7 +2,13 @@
 <h3 align="center">
    I'm currently a Student at University, studying Video Game Development.  <br />
   <br />
-  I'm interested in programming, mainly game development, but also anything related to space, whether that would be Spaceflight, Planets, Rockets or the mysteries of the Universe.</h3>
+  I enjoy programming multitudes of projects in my spare time and also interested in spaceflight!
+</h3>
+<p align="center">
+   <sub>
+      (Hence my status...)
+   </sub>
+</p>
 
 <p align="center">
   <a align="left" href="https://github.com/Bitheral" target="_blank">
@@ -32,20 +38,22 @@
 <h2 align="center">My Projects</h2>
 <div align="center">
 <p align="left">
-  <a href="https://github.com/Bitheral/the-beerzerker" target="_blank">
+   
+   <a href="https://github.com/bitheral/webgl-procedural-environment" target="_blank">
+    <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=webgl-procedural-environment&show_owner=true&hide_border=true&theme=github_dark" alt="Procedural Environment Generation" />
+   </a>   
+   <a href="https://github.com/Bitheral/the-beerzerker" target="_blank">
     <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=the-beerzerker&show_owner=true&hide_border=true&theme=github_dark" alt="The Beerzerker" />
-  </a>
-  <a href="https://github.com/Bitheral/solar-engulfment" target="_blank">
-    <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=solar-engulfment&show_owner=true&hide_border=true&theme=github_dark" alt="Solar Engulfment" />
-  </a>
+   </a>
 </p>
 <p align="center">
+   <a href="https://github.com/Bitheral/solar-engulfment" target="_blank">
+     <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=solar-engulfment&show_owner=true&hide_border=true&theme=github_dark" alt="Solar Engulfment" />
+    </a>
   <a href="https://github.com/Bitheral/drilling-rig" target="_blank">
     <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/pin/?username=bitheral&repo=drilling-rig&show_owner=true&hide_border=true&theme=github_dark" alt="Drilling Rig" />
-  </a>
+   </a>
 </p>
-</div>
-
 <br>
 <h2 align="left">Blog Posts</h2>
 
