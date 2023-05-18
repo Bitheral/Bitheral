@@ -14,8 +14,8 @@
   <a align="left" href="https://github.com/Bitheral" target="_blank">
     <img src="https://img.shields.io/github/followers/bitheral?label=Follow%20bitheral&logo=github&style=for-the-badge" alt="GitHub - Follow Bitheral" />
   </a>
-  <a align="left" href="https://twitter.com/itsbitheral" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/itsbitheral?logo=twitter&style=for-the-badge" alt="Twitter - Follow @itsBitheral" />
+  <a align="left" href="https://twitter.com/bitheral" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/bitheral?logo=twitter&style=for-the-badge" alt="Twitter - Follow @Bitheral" />
   </a>
 </p>
 <p align="center">
