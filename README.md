@@ -31,7 +31,7 @@
  </p>
 
 
-- All of my projects are available at <a href="https://bitheral.net/projects" target="_blank">https://bitheral.net/projects</a>
+- All of my projects are available at <a href="https://bitheral.net" target="_blank">https://bitheral.net</a>
 
 - You can reach me at **me@bitheral.net**
 
