@@ -58,7 +58,6 @@
 <h2 align="left">Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [test](https://bitheral.net/blog/test)
 - [Ludum Dare 51 - Every 10 seconds!](https://bitheral.net/blog/ludum-dare-51-every-10-seconds)
 <!-- BLOG-POST-LIST:END -->
 
