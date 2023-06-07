@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://api.bitheral.net/v1/data/blog/feed"
+                feed_list: "https://api.bitheral.net/v3/blog/feed"
