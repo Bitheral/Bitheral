@@ -4,11 +4,6 @@
   <br />
   I enjoy programming multitudes of projects in my spare time and also interested in spaceflight!
 </h3>
-<p align="center">
-   <sub>
-      (Hence my status...)
-   </sub>
-</p>
 
 <p align="center">
   <a align="left" href="https://github.com/Bitheral" target="_blank">
