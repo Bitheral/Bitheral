@@ -2,7 +2,7 @@
 <h3 align="center">
    I'm currently a Student at University, studying Video Game Development.  <br />
   <br />
-  I enjoy programming multitudes of projects in my spare time and also interested in spaceflight!
+  I enjoy programming all kinds of projects in my spare time and keeping up the latest in spaceflight.
 </h3>
 
 <p align="center">
