@@ -5,6 +5,8 @@
   I enjoy programming all kinds of projects in my spare time and keeping up the latest in spaceflight.
 </h3>
 
+<a href="#connect">headerlink_test</a>
+
 <p align="center">
   <a align="left" href="https://github.com/Bitheral" target="_blank">
     <img src="https://img.shields.io/github/followers/bitheral?label=Follow%20bitheral&logo=github&style=for-the-badge" alt="GitHub - Follow Bitheral" />
@@ -56,7 +58,7 @@
 - [Ludum Dare 51 - Every 10 seconds!](https://bitheral.net/blog/ludum-dare-51-every-10-seconds)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" id="connect">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bitheral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bitheral" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14132992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14132992" height="30" width="40" /></a>
