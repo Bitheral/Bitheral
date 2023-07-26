@@ -5,8 +5,6 @@
   I enjoy programming all kinds of projects in my spare time and keeping up the latest in spaceflight.
 </h3>
 
-<a href="#connect">headerlink_test</a>
-
 <p align="center">
   <a align="left" href="https://github.com/Bitheral" target="_blank">
     <img src="https://img.shields.io/github/followers/bitheral?label=Follow%20bitheral&logo=github&style=for-the-badge" alt="GitHub - Follow Bitheral" />
