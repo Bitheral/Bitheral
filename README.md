@@ -58,7 +58,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsbitheral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsbitheral" height="30" width="40" /></a>
+<a href="https://twitter.com/bitheral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bitheral" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14132992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14132992" height="30" width="40" /></a>
 <a href="https://bitheral.net/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://api.bitheral.net/v1/data/blog/feed" height="30" width="40" /></a>
 </p>
