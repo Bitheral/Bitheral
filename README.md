@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bitheral</h1>
 <h3 align="center">
-   I'm currently a Student at University, studying Video Game Development.  <br />
+   Hobbyist gamedev, spaceflight enthusiast. <br />
   <br />
   I enjoy programming all kinds of projects in my spare time and keeping up the latest in spaceflight.
 </h3>
@@ -26,9 +26,11 @@
  </p>
 
 
-- All of my projects are available at <a href="https://bitheral.net" target="_blank">https://bitheral.net</a>
+<div align="center">
+All of my projects are available at <a href="https://bitheral.net" target="_blank">https://bitheral.net</a>
 
-- You can reach me at **me@bitheral.net**
+You can reach me at **me@bitheral.net**
+</div>
 
 <h2 align="center">My Projects</h2>
 <div align="center">
@@ -52,12 +54,14 @@
 - [Ludum Dare 51 - Every 10 seconds!](https://bitheral.net/blog/ludum-dare-51-every-10-seconds)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left" id="connect">Connect with me:</h3>
-<p align="left">
+<div align="center">
+<h3 id="connect">Connect with me:</h3>
+<p>
 <a href="https://twitter.com/bitheral" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@bitheral" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14132992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14132992" height="30" width="40" /></a>
 <a href="https://bitheral.net/blog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://api.bitheral.net/v1/data/blog/feed" height="30" width="40" /></a>
 </p>
+</div>
 
 <p align="left">
   <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitheral&show_icons=true&theme=github_dark&hide_border=true&locale=en&layout=compact&count_private=true" alt="bitheral" />
